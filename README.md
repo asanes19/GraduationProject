@@ -32,8 +32,8 @@ Graduation project - Web Application
 
 <p align="center">
   <a href="https://github.com/asanes19">
-    <img src="Readme/clint.jpg" alt="Clint" width="450" height="250">
-    <img src="Readme/admin.jpg" alt="Clint" width="450" height="250">
+    <img src="Readme/clint.jpg" alt="Clint" width="420" height="250">
+    <img src="Readme/admin.jpg" alt="Clint" width="420" height="250">
   </a>
 </p>
 
